@@ -18,7 +18,7 @@ cd GeoSNIFF
 chmod +x GeoSNIFF.sh
 bash GeoSNIFF.sh
 
-#Example Usage
+##Example Usage
 
 $ bash GeoSNIFF.sh
 [+] Enter IP Address to track:
